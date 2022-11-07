@@ -1,4 +1,4 @@
-👋 Hey! Check out [my website](russellyang.com) for more details on my interests and background.
+👋 Hey! Check out [my website](https://www.russellyang.com) for more details on my interests and background.
 
 <!---
 yangrussell/yangrussell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
