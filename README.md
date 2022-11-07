@@ -1,6 +1,4 @@
-👋 Hi, I’m @yangrussell
-👀 I’m a Yale engineering student major in Electrical Engineering and Computer Science and Molecular Biophysics and Biochemistry
-📫 Email me at russell.yang@yale.edu with any opportunities!
+👋 Hey! Check out [my website](russellyang.com) for more details on my interests and background.
 
 <!---
 yangrussell/yangrussell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
